@@ -5,3 +5,12 @@ date:   2016-07-22 13:44:24 +0800
 categories: jekyll update
 ---
 
+  <H2> Toast 自定义笔记
+
+  > 要自定义需查看 Toast.class 提供的方法
+
+  * this will look like very greate !
+ [google]: http://google.com/ "Google"
+
+\*literal asterisks\*
+<address@example.com>
