@@ -14,4 +14,4 @@ categories: jekyll update
         </code>
     </pre>
 </p>
-<img src="/Users/Home/Documents/GxBlog/img/img_header.png" width="100" height="100">
+<img src="/img/img_header.png" width="100" height="100">
