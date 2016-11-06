@@ -6,6 +6,7 @@ categories: jekyll update
 ---
 
 ##Toast 使用
+<img src="/GxBlog/img/img_header.png" width="100%" height="200">
 <p>/
     <pre>
         <code>
@@ -14,4 +15,4 @@ categories: jekyll update
         </code>
     </pre>
 </p>
-<img src="/img/img_header.png" width="100" height="100">
+
